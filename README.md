@@ -16,12 +16,16 @@ Access the simulation here:
 Instructions
 Part 1: Access the Simulator
 1. Open the link provided above
+
 2.Enter the following:
 ⚬ Learner Name
 ⚬ Cyber Handle (your alias in cybersecurity)
+
 3.Click Start
+
 Part 2: Perform the Simulation
 1. You will be given 10 cyber attack scenarios
+
 2.Each scenario includes:
 ⚬ Attack description
 ⚬ Severity level (Critical / Medium)
@@ -42,10 +46,15 @@ After completing all scenarios, review your:
 
 Part 4: Reflection Questions
 Answer the following:
+
 1. What type of attack did you find most difficult? Why?
+
 2.Which mitigation strategy did you use most often?
+
 3.How did the logs panel help you understand the attack?
+
 4.Why is quick decision-making important in cybersecurity?
+
 5.What will you improve next time?
 Output / Submission
 Submit the following:

@@ -28,14 +28,20 @@ Part 2: Perform the Simulation
 
 2.Each scenario includes:
 ⚬ Attack description
+
 ⚬ Severity level (Critical / Medium)
+
 ⚬ Multiple mitigation options
 
 1. For each scenario:
 ⚬ Read carefully
+
 ⚬ Analyze the attack
+
 ⚬ Choose the best mitigation action
+
 ⚬ Review the attack explanation after answering
+
 Note: Each question has a time limit
 
 Part 3: Analyze Results
